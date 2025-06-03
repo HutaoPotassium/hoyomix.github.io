@@ -1,3 +1,4 @@
+
  // 点击“开始”按钮时
  window.startExperience = function() {
  	document.getElementById("welcome").style.display = "none";
@@ -107,4 +108,4 @@
  		player.currentTime = 0;
  		currentList = [];
  	}
- };
+}
